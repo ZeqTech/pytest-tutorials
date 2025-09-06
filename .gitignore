@@ -1,3 +1,5 @@
 **/.pytest_cache
-**/.__pycache__
+**/__pycache__
 **/.venv
+**/*cpython*
+make.sh
