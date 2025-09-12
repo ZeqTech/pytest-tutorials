@@ -3,3 +3,4 @@
 **/.venv
 **/*cpython*
 make.sh
+.git

@@ -1,0 +1,6 @@
+[tool.pytest.ini_options]
+addopts = "-sv"
+filterwarnings = [
+    "slow: marks tests as slow"
+    "api: marks tests that call external APIs"
+]
